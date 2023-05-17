@@ -1,0 +1,28 @@
+body{
+    background-image: url(Рисунок1.jpg);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.menu {
+    padding: 15px 0 15px 0;
+    background-color: rgba(211, 220, 250, 0.66);
+    border-radius: 15px;
+    background-position: center;
+}
+
+.content {
+	padding: 20px 0 50px 0;
+    
+    border-radius: 15px;
+    background-position: center;}
+.widht{
+    padding: 0px 150px 0px;
+}
